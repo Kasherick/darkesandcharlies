@@ -1,0 +1,19 @@
+#container {
+	width: 100%;
+	height: 475px;
+	background-image: url('images/bathtubbanner.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: rgb(148,1,154);
+}
+
+#navbar ul {
+	text-align: center;
+}
+
+#navbar li {
+	display: inline;
+	margin-right: 20px;
+	font-size: 42px;
+}
