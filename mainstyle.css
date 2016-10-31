@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #container {
 	width: 100%;
 	height: 475px;
@@ -8,6 +9,21 @@
 	background-color: rgb(148,1,154);
 }
 
+=======
+body{
+	background-color: rgb(171,3,161);
+}
+
+#mainheader {
+	background: url('images/bathtubbanner.jpg') center center no-repeat;
+	background-size: contain;
+	width: 100%;
+	height: 475px;
+	border-color: black;
+}
+
+
+>>>>>>> Design-2
 #navbar ul {
 	text-align: center;
 }
@@ -16,4 +32,8 @@
 	display: inline;
 	margin-right: 20px;
 	font-size: 42px;
+<<<<<<< HEAD
+=======
+	color: white;
+>>>>>>> Design-2
 }
